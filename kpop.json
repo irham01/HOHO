@@ -1,0 +1,2086 @@
+{
+    "bts": {
+        "info": "\n⭔ Group Name : BTS (Bangtan Boys) / 방탄소년단\n⭔ Debut Date : June 13, 2013\n⭔ Fandom Name : A.R.M.Y (Adorable Representative MC for Youth)\n ⭔ fandom_color : Purple (Unofficial)\n⭔ Lighstick : Silver-Gray\n⭔ Instagram :https://www.instagram.com/bts.bighitofficial/\n⭔ Twitter : https://twitter.com/bts_twt\n⭔ Youtube : https://www.youtube.com/c/BANGTANTV\n⭔ Tiktok:https://www.tiktok.com/@bts_official_bighit\n⭔ Facebook : https://www.facebook.com/bangtan.official/",
+        "groupImg": "https://kprofiles.com/wp-content/uploads/2016/04/Group-20-900x600.jpg",
+        "members": {
+            "rm": {
+                "stage_name": "RM (아르엠), formerly Rap Monster (랩몬스터)",
+                "birth_name": "Kim Nam Joon (김남준)",
+                "position": "Leader, Main Rapper",
+                "birthday": "September 12, 1994",
+                "birth_place": "Sydney, Australia",
+                "nickname": "Chan, Channie, Kangaroo, The Best Leader, Husband",
+                "height": "5'7",
+                "famous_quote": "Like mate, stop procastionating.",
+                "member_img": "https://pbs.twimg.com/media/EigewopVoAA5ygF?format=jpg&name=4096x4096",
+                "fan_cam": "https://www.youtube.com/embed/ODs2sq7cINI"
+            },
+            "in": {
+                    "stage_name": "I.N.",
+                    "birth_name": "Yang Jong In",
+                    "birthday": "February 8, 2001",
+                    "birth_place": "Busan, South Korea",
+                    "position": "Vocalist, dander, rapper, maknae, Vocalracha",
+                    "nickname": "Fennec fox, baby bread, Ex-boyfriend #5",
+                    "height": "5'8",
+                    "famous_quote": "I can speak Korean!",
+                    "member_img": "https://pbs.twimg.com/media/EiqyL8dXYAARi6q?format=jpg&name=4096x4096",
+                    "fan_cam": "https://www.youtube.com/embed/ozOAPCWuu3A"
+            }
+        }
+    },
+    "straykids": {
+        "info": "\n⭔ Group Name : Stray Kids\n⭔ Debut Date : March 25, 2018\n⭔ Fandom Name : Stay\n⭔ Instagram :https://www.instagram.com/realstraykids/\n⭔ Twitter : https://twitter.com/Stray_Kids\n⭔ Youtube : https://www.youtube.com/c/StrayKids\n⭔ Facebook : https://youtu.be/TQTlCHxyuu8\n⭔ Tiktok:https://www.youtube.com/embed/d1QMXlDbUJ0\n⭔ Dance Video:https://youtu.be/7B1MiHJKIlo",
+        "groupImg": "https://pbs.twimg.com/media/Eiv7iyxU0AAI6Zw?format=jpg&name=4096x4096",
+        "members": {
+            "bang": {
+                "stage_name": "Bang Chan",
+                "birth_name": "Christopher Bang",
+                "birthday": "October 3, 1997",
+                "birth_place": "Sydney, Australia",
+                "position": "Leader, vocals, dancer, rapper, producer, lyricist, 3racha",
+                "nickname": "Chan, Channie, Kangaroo, The Best Leader, Husband",
+                "height": "5'7",
+                "famous_quote": "Like mate, stop procastionating.",
+                "member_img": "https://pbs.twimg.com/media/EigewopVoAA5ygF?format=jpg&name=4096x4096",
+                "fan_cam": "https://www.youtube.com/embed/ODs2sq7cINI"
+            },
+            "lee": {
+                    "stage_name": "Lee Know",
+                    "birth_name": "Lee Min Ho",
+                    "birthday": "October 25, 1998",
+                    "birth_place": "Gimpo, South Korea",
+                    "position": "Vocals, lead dancer, rapper, Danceracha",
+                    "nickname": "Ex-boyfriend #1, Bundle Boy, Meanho",
+                    "height": "5'8",
+                    "famous_quote": "I know, you know, Lee Know",
+                    "member_img": "https://pbs.twimg.com/media/EigexVGU4AEv-jg?format=jpg&name=4096x4096",
+                    "fan_cam": "https://www.youtube.com/embed/-L9z9DS7LEs"
+            },
+            "changbin": {
+                    "stage_name": "Changbin",
+                    "birth_name": "Seo Changbin",
+                    "birthday": "August 11, 1999",
+                    "birth_place": "Yongin, South Korea",
+                    "position": "Vocals, dancer, lead rapper, producer, lyricist, 3racha/Vocalracha",
+                    "nickname": "Binnie, PigBunny, Ex-Boyfriend #2, Teokjaengie (chin), Dark Boy, Baby Changbin",
+                    "height": "5'6",
+                    "famous_quote": "Yooooh",
+                    "member_img": "https://pbs.twimg.com/media/EigeyUbUMAETDz9?format=jpg&name=4096x4096",
+                    "fan_cam": "https://www.youtube.com/embed/nS-y5k6kRDY"
+            },
+            "hunjin": {
+                    "stage_name": "Hyunjin",
+                    "birth_name": "Hwang Hyun Jin",
+                    "birthday": "March 20, 2000",
+                    "birth_place": "Seoul, South Korea",
+                    "position": "Vocals, dancer, rapper, visuals, Danceracha",
+                    "nickname": "Prince, Drama Llama, Jinnie, Ex-Boyfriend #3, Sam",
+                    "height": "5'11",
+                    "famous_quote": "Tch...hairband",
+                    "member_img": "https://pbs.twimg.com/media/EilonALVgAM98up?format=jpg&name=4096x4096",
+                    "fan_cam": "https://www.youtube.com/embed/pN-MWikbRFs"
+            },
+            "han": {
+                    "stage_name": "Han",
+                    "birth_name": "Han Jisung",
+                    "birthday": " September 14, 2000",
+                    "birth_place": "Incheon, South Korea",
+                    "position": "Vocals, dancer, rapper, producer, lyricist, 3racha",
+                    "nickname": "Squirrel, Quokka, Hannie, Jisung, Ex-bofriend #4, Peter",
+                    "famous_quote": "Excuse me noona, do you have a boyfriend?",
+                    "member_img": "https://pbs.twimg.com/media/EilooG_VkAADJBL?format=jpg&name=4096x4096",
+                    "fan_cam": "https://www.youtube.com/embed/dgnavFGzcL8"
+            },
+            "felix": {
+                    "stage_name": "Felix",
+                    "birth_name": "Lee Felix, Lee Yong Bok",
+                    "birthday": "September 15, 2000",
+                    "birth_place": "Sydney, Australia",
+                    "position": "Vocals, dancer, rapper, line killer, visuals, Danceracha",
+                    "nickname": "Sunshine, Lix, Yongbok, Mosquito, Master Chef",
+                    "height": "5'7",
+                    "famous_quote": "Yeeet",
+                    "member_img": "https://pbs.twimg.com/media/EiqyKX1WkAQwUQ7?format=jpg&name=4096x4096",
+                    "fan_cam": "https://www.youtube.com/embed/pvZ4qVvfwy4"
+            },
+            "suengmin": {
+                    "stage_name": "Suengmin",
+                    "birth_name": "Kim Seung Min",
+                    "birthday": "September 22, 2000",
+                    "birth_place": "Seoul, South Korea",
+                    "position": "Vocalist, dander, rapper, Vocalracha",
+                    "nickname": "Dandy Boy, Puppy, Minnie",
+                    "height": "5'10",
+                    "famous_quote": "Suengmin in the building",
+                    "member_img": "https://pbs.twimg.com/media/EiqyLM-XgAEar-7?format=jpg&name=4096x4096",
+                    "fan_cam": "https://www.youtube.com/embed/DBTCP34PPW4"
+            },
+            "in": {
+                    "stage_name": "I.N.",
+                    "birth_name": "Yang Jong In",
+                    "birthday": "February 8, 2001",
+                    "birth_place": "Busan, South Korea",
+                    "position": "Vocalist, dander, rapper, maknae, Vocalracha",
+                    "nickname": "Fennec fox, baby bread, Ex-boyfriend #5",
+                    "height": "5'8",
+                    "famous_quote": "I can speak Korean!",
+                    "member_img": "https://pbs.twimg.com/media/EiqyL8dXYAARi6q?format=jpg&name=4096x4096",
+                    "fan_cam": "https://www.youtube.com/embed/ozOAPCWuu3A"
+            }
+        }
+    },
+    "ateez": {
+        "info": "\n⭔ Group Name : Ateez\n⭔ Debut Date : October 24, 2018\n⭔ Fandom Name : Atiny\n⭔ Instagram :https://www.instagram.com/ateez_official_/\n⭔ Twitter : https://twitter.com/ATEEZofficial\n⭔ Youtube : https://www.youtube.com/playlist?list=PLHHgVBHD_CiVIpehf3F_SN9GZeR3D2ofn\n⭔ Facebook : https://youtu.be/xtcVwuauVV0\n⭔ Tiktok:https://youtu.be/AFP6QLw0ClY\n⭔ Dance Video:https://youtu.be/wWhCCXmOl3g",
+        "groupImg": "https://kprofiles.com/wp-content/uploads/2018/05/ateez-1024x709.jpg",
+        "members": {
+            "hongjoong": {
+                "stage_name": "Hongjoong",
+                "birth_name": "Kim Hong Joong",
+                "birthday": "November 7, 1998",
+                "birth_place": "Anyang, Gyeonggi-do, South Korea",
+                "position": "Leader, Rapper, Composer, Center",
+                "height": "5'8",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2018/05/Hongjoong-1-819x1024.jpg",
+                "fan_cam": "https://youtu.be/wUHd5DOCrOI"
+            },
+            "seonghwa": {
+                "stage_name": "Seonghwa",
+                "birth_name": "Park Seong Hwa",
+                "birthday": "April 3, 1998",
+                "birth_place": "Jinju, Gyeongnam, South Korea",
+                "position": "Voalist, visuals" , "nickname": "Toothless",
+                "height": "5'10",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2018/05/Seognwha-819x1024.jpg",
+                "fan_cam": "https://youtu.be/FIRxX0m01WI"
+            },
+            "yunho": {
+                "stage_name": "Yunho",
+                "birth_name": "Jeong Yun Ho",
+                "birthday": "March 23, 1999",
+                "birth_place": "Gwangju, South Korea",
+                "position": "Main dancer, vocalist",
+                "height": "6'0",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2018/05/Yunho-819x1024.jpg",
+                "fan_cam": "https://youtu.be/zefyTs_HNg4"
+            },
+            "yeosang": {
+                "stage_name": "Yeosang",
+                "birth_name": "Kang Yeo Sang",
+                "birthday": "June 15, 1999",
+                "birth_place": "Pohang, South Korea",
+                "position": "Vocalist, dancer, visual",
+                "height": "5'10",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2018/05/Yeosang-2-819x1024.jpg",
+                "fan_cam": "https://youtu.be/GgF46ZLAgyc"
+            },
+            "san": {
+                "stage_name": "San",
+                "birth_name": "Choi San",
+                "birthday": "July 10, 1999",
+                "birth_place": "Namhae, South Geongsan, South Korea",
+                "position": "Vocalist",
+                "height": "5'9",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2018/05/San-2-819x1024.jpg",
+                "fan_cam": "https://youtu.be/AZQUhZuLx-k"
+            },
+            "mingi": {
+                "stage_name": "Mingi",
+                "birth_name": "Song Min Gi",
+                "birthday": "August 9, 1999",
+                "birth_place": "Incheon, South Korea",
+                "position": "Main dancer, rapper",
+                "height": "6'0",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2018/05/6-Mingi-5-640x800.jpg",
+                "fan_cam": "https://youtu.be/HqjNDnhfPsg"
+            },
+            "wooyoung": {
+                "stage_name": "Wooyoung",
+                "birth_name": "Jung Woo Young",
+                "birthday": "November 26, 1999",
+                "birth_place": "Ilsan, Gyeonggi-do, South Korea",
+                "position": "Main dancer, vocalist",
+                "height": "5'8",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2018/05/Wooyoung-2-819x1024.jpg",
+                "fan_cam": "https://youtu.be/jjhzHJP7Hzc"
+            },
+            "jongho": {
+                "stage_name": "Jongho",
+                "birth_name": "Choi Jong Ho",
+                "birthday": "October 12, 2000",
+                "birth_place": "Seoul, South Korea",
+                "position": "Main vocalist, maknae",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2018/05/Jongho-1-819x1024.jpg",
+                "fan_cam": "https://youtu.be/CTkGgp9Fkzs"
+            }
+        }
+    },
+    "got7" : {
+        "info": "\n⭔ Group Name : Got7\n⭔ Debut Date : January 16, 2014\n⭔ Fandom Name : Aghase\n⭔ Instagram :https://www.instagram.com/got7.with.igot7/\n⭔ Twitter : https://twitter.com/got7official\n⭔ Youtube : https://www.youtube.com/c/GOT7\n⭔ Facebook :  \n⭔ Tiktok: \n⭔ Dance Video: ",
+        "groupImg": "https://pbs.twimg.com/media/EmcTSpaVkAI6I7K?format=jpg&name=large",
+        "members": {
+            "jb": {
+                "stage_name": "JB",
+                "birth_name": "Im Jae Beom",
+                "birthday": "January 6, 1994",
+                "birth_place": "Gyeongg-do, South Korea",
+                "position": "Leader, main vocalist and lead dancer",
+                "height": "5'11"
+            },
+            "mark": {
+                "stage_name": "Mark",
+                "birth_name": "Mark Yi En Tuan/ Dong Yi Eun",
+                "birthday": "September 4, 1993",
+                "birth_place": "Los Angeles, California, USA",
+                "position": "Lead rapper, sub vocalist, visual",
+                "height": "5'9"
+            },
+            "jackson": {
+                "stage_name": "Jackson",
+                "birth_name": "Wang Jai Er/Wang Ka Yee (Jacksong Wang)",
+                "birthday": "March 28, 1994",
+                "position": "Main rapper, lead dancer, vocalist, face of the group",
+                "height": "5'9"
+            },
+            "jinyoung": {
+                "stage_name": "Jinyoung (Jr)",
+                "birth_name": "Park Jin Young",
+                "birthday": "September 22, 1994",
+                "birth_place": "Gyeongsangnam-do, South Korea",
+                "position": "Vocalist, rapper, visual, center",
+                "height": "5'10"
+            },
+            "youngjae": {
+                "stage_name": "Youngjae",
+                "birth_name": "Choi Young Jae",
+                "birthday": "September 17, 1996",
+                "birth_place": "Jeollanam-do, South Korea",
+                "position": "Main vocalist",
+                "height": "5'10"
+            },
+            "bambam": {
+                "stage_name": "BamBam",
+                "birth_name": "Kunpimook Bhuwakul Bambam",
+                "birthday": "May 2, 1997",
+                "birth_place": "Bangkok Thailand",
+                "position": "Rapper, vocalist",
+                "height": "5'10"
+            },
+            "yugyeom": {
+                "stage_name": "Yugyeom",
+                "birth_name": "Kim Yu Gyeom",
+                "birthday": "November 17, 1997",
+                "birth_place": "Seoul, South Korea",
+                "position": "Main dancer, vocalist, rapper, maknae",
+                "height": "6,0"
+            }            
+        }
+    },
+    "monsta": {
+        "info": "\n⭔ Group Name : Monsta X\n⭔ Debut Date : May 14, 2015\n⭔ Fandom Name : Monbebe\n⭔ Instagram :https://www.instagram.com/official_monsta_x/\n⭔ Twitter : https://twitter.com/officialmonstax\n⭔ Youtube : https://www.youtube.com/channel/UCZvCP6sWj75MwpUP4LVtpNw\n⭔ Facebook :  \n⭔ Tiktok: \n⭔ Dance Video: ",
+        "groupImg": "https://pbs.twimg.com/media/ElBDCpTU0AA4gqj?format=jpg&name=large",
+        "members": {
+            "shownu": {
+                "stage_name": "Shownu",
+                "birth_name": "Sohn Hyun Woo",
+                "birthday": "June 18, 1992",
+                "birth_place": "Changdong, Donbonggu, Seoul, South Korea",
+                "position": "Leader, main dancer, lead vocals",
+                "height": "5'11",
+                "member_img": "https://pbs.twimg.com/media/Ek72BBpVkAAPpsY?format=jpg&name=large"
+            },
+            "minhyuk": {
+                "stage_name": "Minhyuk",
+                "birth_name": "Lee Min Hyuk",
+                "birthday": "November 3, 1993",
+                "birth_place": "Gwangju, South Korea",
+                "position": "Vocalist, visual",
+                "height": "5'11",
+                "member_img": "https://pbs.twimg.com/media/Ek74T53VMAEYv_X?format=jpg&name=large"
+            },
+            "kihyun": {
+                "stage_name": "Kihyun",
+                "birth_name": "Yoo Ki Hyun",
+                "birthday": "November 22, 1993",
+                "birth_place": "Goyang, South Korea",
+                "position": "Main vocalist",
+                "height": "5'9",
+                "member_img": "https://pbs.twimg.com/media/Ek76l_MVcAEqIGQ?format=jpg&name=large"
+            },
+            "hyungwon": {
+                "stage_name": "Hyungwon",
+                "birth_name": "Chae Hyung Won",
+                "birthday": "January 15, 1994",
+                "birth_place": "Gwangju, South Korea",
+                "position": "Lead dancer, vocalist, rapper, visuals",
+                "height": "6'0",
+                "member_img": "https://pbs.twimg.com/media/Ek75cqOVkAACCM0?format=jpg&name=large"
+            },
+            "joohoney": {
+                "stage_name": "Joohoney, Joohoen" ,
+                "birth_name": "Lee Ho Joon/Lee Ho Hoon",
+                "birthday": "October 6, 1994",
+                "birth_place": "Seoul, South Korea",
+                "position": "Main rapper, vocalist",
+                "height": "5'10",
+                "member_img": "https://pbs.twimg.com/media/Ek73J9kUYAEvCCa?format=jpg&name=large"
+            },
+            "im": {
+                "stage_name": "I.M",
+                "birth_name": "Im Chang Kyun",
+                "birthday": "January 26, 1996",
+                "birth_place": "Gwangju, South Korea",
+                "position": "Lead rapper, vocalist, maknae",
+                "height": "5'9",
+                "member_img": "https://pbs.twimg.com/media/Ek77vQ_UYAAUR7v?format=jpg&name=large"
+            }
+        }
+    },
+    "oneus": {
+        "info": "\n⭔ Group Name : OneUs\n⭔ Debut Date : January 9,2019\n⭔ Fandom Name : To Moon\n⭔ Instagram :https://t.co/vcr6srzYMs\n⭔ Twitter : https://twitter.com/official_ONEUS\n⭔ Youtube : https://t.co/7odT75WKWX\n⭔ G_I : https://0.soompi.io/wp-content/uploads/2020/12/03071624/ONEUS-2.jpg\n⭔ Facebook :  \n⭔ Tiktok: \n⭔ Dance Video: ",
+        "members": {
+            "ravn": {
+                "stage_name": "Ravn",
+                "birth_name": "Kim Young Jo",
+                "birthday": "September 2, 1995",
+                "birth_place": "Yongin, South Korea",
+                "position": "Leader, main rapper, vocalist, producer",
+                "height": "5'10",
+                "member_img": "https://0.soompi.io/wp-content/uploads/2020/12/05074130/oneus-5.jpeg"
+            },
+            "seoho": {
+                "stage_name": "Seoho",
+                "birth_name": "Lee Gun Min/ Lee Seo Ho",
+                "birthday": "June 7, 1996",
+                "birth_place": "Daejeon, South Korea",
+                "position": "Main vocalist",
+                "height": "5'9",
+                "member_img": "https://0.soompi.io/wp-content/uploads/2020/12/05074035/oneus-8.jpeg"
+            },
+            "leedo": {
+                "stage_name": "Leedo",
+                "birth_name": "Kim Gun Hak",
+                "birthday": "July 26, 1997",
+                "position": "Main rapper, vocalist",
+                "height": "5'10",
+                "member_img": "https://0.soompi.io/wp-content/uploads/2020/12/04072035/oneus-4.jpeg"
+            },
+            "keonhee": {
+                "stage_name": "Keonhee",
+                "birth_name": "Lee Keon Hee",
+                "birthday": "June 27, 1998",
+                "position": "Main vocalist",
+                "height": "5'11",
+                "member_img": "https://www.allkpop.com/upload/2021/01/content/061019/1609946346-20210106-oneus.jpg"
+            },
+            "hwangwoong": {
+                "stage_name": "Hwangwoong",
+                "birth_name": "Yeo Hwan Woong",
+                "birthday": "August 26, 1998",
+                "position": "Main dancer, vocalist",
+                "height": "5'6",
+                "member_img": "https://0.soompi.io/wp-content/uploads/2020/12/04072134/oneus-1.jpeg"
+            },
+            "xion": {
+                "stage_name": "Xion",
+                "birth_name": "Son Dong Ju",
+                "birthday": "January 10, 2000",
+                "position": "Vocalist, visuals, maknae",
+                "height": "5'8",
+                "member_img": "https://preview.redd.it/pgo29njc8q961.jpg?width=1390&format=pjpg&auto=webp&s=0467e056c4afd955778d8ce730ad0a0ccdae23b2"
+            }
+        }
+    },
+    "boyz": {
+        "info": "\n⭔ Group Name : The Boyz\n⭔ Debut Date : December 6, 2017\n⭔ Fandom Name : The B\n⭔ Instagram :https://www.instagram.com/official_theboyz/\n⭔ Twitter : https://twitter.com/Creker_THEBOYZ\n⭔ Youtube : https://www.youtube.com/channel/UCkJ1rbOrsyPfBuHNfnLPm-Q\n⭔ G_I : https://kprofiles.com/wp-content/uploads/2017/08/The-Boyz-900x599.jpeg\n⭔ Facebook :  \n⭔ Tiktok: \n⭔ Dance Video: ",
+        "members" :{
+            "Sangyeon" :{
+                "stage_name": "Sangyeon",
+                "birth_name": "Lee Sang Yeon",
+                "birthday": "November 4, 1996",
+                "birth_place": "Seoul, South Korea",
+                "position": "Leader, main vocalist",
+                "height": "5'9"
+            },
+            "Jacob" :{
+                "stage_name": "Jacob",
+                "birth_name": "Jacob Bae/ Bae Joon Young",
+                "birthday": "May 30, 1997",
+                "birth_place": "Toronto, Canada",
+                "position": "Lead vocalist",
+                "height": "5'9"
+            },
+            "Younghoon" :{
+                "stage_name": "Younghoon",
+                "birth_name": "Kim Young Hoon",
+                "birthday": "August 8, 1997",
+                "position": "Vocalist, visual",
+                "height": "6'0"
+            },
+            "Hyunjae" :{
+                "stage_name": "Hyunjae",
+                "birth_name": "Lee Jae Hyun",
+                "birthday": "September 13, 1997",
+                "birth_place": "Incheon, South Korea",
+                "position": "Lead vocalist, lead dancer, visual",
+                "height": "5'11"
+            },
+            "Juyeon" :{
+                "stage_name": "Juyeon",
+                "birth_name": "Lee Ju Yeon",
+                "birthday": "January 15, 1998",
+                "birth_place": "Gwangju-si, Gyeonggi-ddo, South Korea",
+                "position": "Main dancer, vocalist, visual",
+                "height": "5'11"
+            },
+            "Kevin" :{
+                "stage_name": "Kevin",
+                "birth_name": "Kevin Moon/ Moon Hyung Seo",
+                "birthday": "February 23, 1998",
+                "birth_place": "Gwangju, South Korea (but grew up in Vancouver)",
+                "position": "Main vocalist",
+                "height": "5'9"
+            },
+            "New" :{
+                "stage_name": "New",
+                "birth_name": "Choi Chan Hee",
+                "birthday": "April 26, 1998",
+                "birth_place": "Jeonju, South Korea",
+                "position": "Main vocalist",
+                "height": "5'10"
+            },
+            "Q" :{
+                "stage_name": "Q",
+                "birth_name": "Ji Chang Min",
+                "birthday": "November 5, 1998",
+                "position": "Main dancer, vocalist",
+                "height": "5'9"
+            },
+            "Juhaknyeon" :{
+                "stage_name": "Juhaknyeon",
+                "birth_name": "Ju Hak Nyeon/Zhou He Nian",
+                "birthday": "March 9, 1999",
+                "birth_place": "Jeju, South Korea",
+                "position": "Lead dancer, vocalist, rapper",
+                "height": "5'9"
+            },
+            "Sunwoo" :{
+                "stage_name": "Sunwoo",
+                "birth_name": "Kim Sun Woo",
+                "birthday": "April 12, 2000",
+                "birth_place": "Seongnam, Gyeonggi, South Korea",
+                "position": "Main rapper, lead dancer, vocalist",
+                "height": "5'10"
+            },
+            "Eric" :{
+                "stage_name": "Eric",
+                "birth_name": "Son Young Jae/ Eric Son",
+                "birthday": "December 22 2000",
+                "birth_place": "South Korea but grew up in LA, USA",
+                "position": "Lead dancer, lead rapper, vocalist, maknae",
+                "height": "5'9"
+            }
+        }
+    },
+    "bigb": {
+        "info": "\n⭔ Group Name : BigBang\n⭔ Debut Date : August 19, 2006\n⭔ Fandom Name : VIP\n⭔ Instagram : \n⭔ Twitter : https://twitter.com/YG_GlobalVIP\n⭔ Youtube : https://www.youtube.com/user/bigbang\n⭔ G_I : https://kprofiles.com/wp-content/uploads/BigBang.jpg\n⭔ Facebook :  \n⭔ Tiktok: \n⭔ Dance Video: ",
+        "members": {
+            "gDragon" :{
+                "stage_name": "G-Dragon",
+                "birth_name": "Kwon Ji Yong",
+                "birthday": "August 19, 1988",
+                "birth_place": "Seoul, South Korea",
+                "position": "Leader, main rapper, vocalist, face of the group",
+                "height": "5'7"
+            },
+            "top" :{
+                "stage_name": "T.O.P",
+                "birth_name": "Coi Seung-hyun",
+                "birthday": "November 4, 1987",
+                "birth_place": "Seoul, South Korea",
+                "position": "Lead rapper, vocalist, visuals",
+                "height": "5'11"
+            },
+            "Taeyang" :{
+                "stage_name": "Taeyang",
+                "birth_name": "Dong Yong Bae",
+                "birthday": "May 18, 1988",
+                "birth_place": "Gyeonggi-do South Korea",
+                "position": "Main vocalist, main dancer",
+                "height": "5'9"
+            },
+            "Daesung" :{
+                "stage_name": "Daesung",
+                "birth_name": "Kang Daesung",
+                "birthday": "April 26, 1989",
+                "birth_place": "Incheon, South Korea",
+                "position": "Lead vocalist, maknae",
+                "height": "5'10"
+            }
+        }
+    },
+    "superm": {
+        "info": "\n⭔ Group Name : Super M\n⭔ Debut Date : October 4, 2019\n⭔ Instagram :https://www.instagram.com/superm/?hl=en\n⭔ Twitter : https://twitter.com/superm\n⭔ Youtube : https://www.youtube.com/c/superm\n⭔ G_I : https://kprofiles.com/wp-content/uploads/2019/08/SuperM-1024x683.jpg\n⭔ Facebook :  \n⭔ Tiktok: \n⭔ Dance Video: ",
+        "members": {
+            "Baekhyun" :{
+                "stage_name": "Baekhyun",
+                "birth_name": "Byun Baek Hyun",
+                "birthday": "May 6, 1992",
+                "birth_place": "Bucheon, Gyeonggi-do, South Korea",
+                "position": "Leader, main vocalist & Member of EXO",
+                "height": "5'9"
+            },
+            "Taemin" :{
+                "stage_name": "Taemin",
+                "birth_name": "Lee Tae Min",
+                "birthday": "July 19, 1993",
+                "birth_place": "Seoul, South Korea",
+                "position": "Main dancer, main vocalist, center & Member of SHINee",
+                "height": "5'9"
+            },
+            "Kai" :{
+                "stage_name": "Kai",
+                "birth_name": "Kim Jong In",
+                "birthday": "January 14, 1994",
+                "birth_place": "Seoul, South Korea",
+                "position": "Main dancer, lead vocalist, rapper & Member of EXO",
+                "height": "5'11"
+            },
+            "Taeyong" :{
+                "stage_name": "Taeyong",
+                "birth_name": "Lee Tae Yong",
+                "birthday": "July 1, 1995",
+                "birth_place": "Seoul, South Korea",
+                "position": "Main rapper, lead dancer, vocalist & Member of NCT U & 127",
+                "height": "5'9"
+            },
+            "ten" :{
+                "stage_name": "Ten",
+                "birth_name": "Chittaphon Leechaiyopornkul/Lee Young Heum, Li Yong Qin",
+                "birthday": "February 27, 1996",
+                "position": "Lead dancer, lead vocalist, rapper & Member of NCT U, WayV",
+                "height": "5'8"
+            },
+            "lucas" :{
+                "stage_name": "Lucas",
+                "birth_name": "Huang Xuxi/ Wong Yuk-hei/Hwang Wook Hee",
+                "birthday": "Jan 25, 1999",
+                "birth_place": "Hong Kong, China",
+                "position": "Lead rapper & Member of NCT U, WayV",
+                "height": "6'0"
+            },
+            "mark" :{
+                "stage_name": "Mark",
+                "birth_name": "Mark Lee/ Lee Min Hyung",
+                "birthday": "August 2, 1999",
+                "birth_place": "Toronto but moved to Vancouver",
+                "position": "Main rapper, lead dancer, vocals, maknae& Member of NCT U, 127, Dream",
+                "height": "5'9"
+            }
+        }
+    },
+    "nct": {
+        "info": "\n⭔ Group Name : NCT 127\n⭔ Debut Date : July 10, 2016\n⭔ Fandom Name : NCTzen\n⭔ Instagram :https://www.instagram.com/nct127/\n⭔ Twitter : https://twitter.com/nctsmtown_127\n⭔ G_I : https://pbs.twimg.com/media/ErHTwx_UYAA9rJR?format=jpg&name=large\n⭔ Facebook :  \n⭔ Tiktok: \n⭔ Dance Video: ",
+        "members" :{
+            "Taeyong" :{
+                "stage_name": "Taeyong",
+                "birth_name": "Lee Tae Yong",
+                "birthday": "July 1, 1995",
+                "birth_place": "Seoul, South Korea",
+                "position": "Leader, Main rapper, lead dancer, vocalist & Member of NCT U & Super M",
+                "height": "5'9"
+            },
+            "Taeil" :{
+                "stage_name": "Taeil",
+                "birth_name": "Moon Tae Il",
+                "birthday": "June 14, 1994",
+                "birth_place": "Seoul, South Korea",
+                "position": "Main vocalist",
+                "height": "5'7"
+            },
+            "Johnny" :{
+                "stage_name": "Johnny",
+                "birth_name": "Seo Young Ho/ John Suh",
+                "birthday": "February 9, 1995",
+                "birth_place": "Chicago, IL, USA",
+                "position": "Vocalist, rapper",
+                "height": "6'1"
+            },
+            "Yuta" :{
+                "stage_name": "Yuta",
+                "birth_name": "Nakamoto Yuta",
+                "birthday": "October 26, 1995",
+                "birth_place": "Osaka, Japan",
+                "position": "Lead dancer, vocalist, rapper",
+                "height": "5'9"
+            },
+            "Doyoung" :{
+                "stage_name": "Doyoung",
+                "birth_name": "Kim Dong Young",
+                "birthday": "February 1, 1996",
+                "birth_place": "Seoul, South Korea",
+                "position": "Main vocalist, & Member of NCT U",
+                "height": "5'10"
+            },
+            "Jaehyun" :{
+                "stage_name": "Jaehyun",
+                "birth_name": "Jung Jae Hyun/ Jung Yoon Oh",
+                "birthday": "February 14, 1997",
+                "birth_place": "Seoul, South Korea",
+                "position": "Main vocalist, lead sancer, rapper, visuals & Member of NCT U",
+                "height": "5'11"
+            },
+            "Jungwoo" :{
+                "stage_name": "Jungwoo",
+                "birth_name": "Kim Jung Woo/ Jin Ting You",
+                "birthday": "February 19, 1998",
+                "position": "Lead vocalist, dancer & Member of NCT U",
+                "height": "5'11"
+            },
+            "Mark" :{
+                "stage_name": "Mark",
+                "birth_name": "Mark Lee/ Lee Min Hyung",
+                "birthday": "August 2, 1999",
+                "birth_place": "Toronto but moved to Vancouver young",
+                "position": "Main rapper, lead dancer, vocals, maknae, & Member of NCT U, Dream, Super M",
+                "height": "5'9"
+            },
+            "Haechan" :{
+                "stage_name": "Haechan",
+                "birth_name": "Lee Dong Hyuck",
+                "birthday": "June 6, 2000",
+                "birth_place": "Seoul, South Korea",
+                "position": "Main vocalist, lead dancer, maknae & Member of NCT Dream",
+                "height": "5'9"
+            }
+        }
+    },
+    "exo": {
+        "info": "\n⭔ Group Name : EXO\n⭔ Debut Date : April 8, 2012\n⭔ Fandom Name : EXO-L\n⭔ Instagram :https://www.instagram.com/weareone.exo/\n⭔ Twitter : https://twitter.com/weareoneEXO\n⭔ Youtube : https://www.youtube.com/user/EXOK/featured\n⭔ G_I : https://kprofiles.com/wp-content/uploads/2020/02/exo.png\n⭔ Facebook :  \n⭔ Tiktok: \n⭔ Dance Video: ",
+        "members": {
+            "Suho" :{
+                "stage_name": "Suho",
+                "birth_name": "Kim Jun Myeon/ Jin Jun Mian",
+                "birthday": "May 22, 1991",
+                "position": "Leader, lead vocals, visuals"
+            },
+            "Xiumin" :{
+                "stage_name": "Xiumin",
+                "birth_name": "Kim Min Seok/Jin Min Shou",
+                "birthday": "March 26, 1990",
+                "position": "Vocalist, rapper",
+                "height": "5'8"
+            },
+            "Lay" :{
+                "stage_name": "Lay",
+                "birth_name": "Zhang Jiashuai",
+                "birthday": "October 7, 1991",
+                "birth_place": "Changsha, Hunan, China",
+                "position": "Main dancer, vocalist, rapper, height",
+                "height": "5'9"
+            },
+            "Baekhyun" :{
+                "stage_name": "Baekhyun",
+                "birth_name": "Byun Baek Hyun/Bian Buo Xian","birthday": " May 6 1992",
+                "birth_place": "Bucheon, Gyeonggi-do, South Korea",
+                "position": "Leader, main vocalist & Member of Super M",
+                "height": "5'9"
+            },
+            "Chen" :{
+                "stage_name": "Chen",
+                "birth_name": "Kim Jong Dae/Jin Zhong Da",
+                "birthday": "September 21, 1992",
+                "birth_place": "Gyeonggi-do, South Korea",
+                "position": "Main vocalist",
+                "height": "5'8"
+            },
+            "Chanyeol" :{
+                "stage_name": "Chanyeol",
+                "birth_name": "Park Chan Yeol/ Piao Can Lie",
+                "birthday": "November 27, 1992",
+                "birth_place": "Seoul, South Korea",
+                "position": "Main rapper, vocalist, visuals",
+                "height": "6'1"
+            },
+            "do" :{
+                "stage_name": "D.O.",
+                "birth_name": "Do Kyung Soo/Du Qing Zhu",
+                "birthday": "January 12, 1993",
+                "birth_place": "Gyeonggi-do, South Korea",
+                "position": "Main vocalist",
+                "height": "5'8"
+            },
+            "Kai" :{
+                "stage_name": "Kai",
+                "birth_name": "Kim Jong In",
+                "birthday": "January 14, 1994",
+                "birth_place": "Seoul, South Korea",
+                "position": "Main dancer, lead vocalist, rapper & Member of Super M",
+                "height": "5'11"
+            },
+            "Sehun" :{
+                "stage_name": "Sehun",
+                "birth_name": "Oh Se Hun/Wu Shi Xun",
+                "birthday": "April 12 1994",
+                "birth_place": "Seoul, South Korea",
+                "position":   "Lead Dancer, Lead Rapper, Visual, Maknae",
+                "height": "6'0"
+            }
+        }
+    },
+    "astro": {
+        "info": "\n⭔ Group Name : Astro\n⭔ Debut Date : February 23,2016\n⭔ Fandom Name : Ahora\n⭔ Instagram :https://www.instagram.com/officialastro/?hl=en\n⭔ Twitter : https://twitter.com/offclASTRO\n⭔ Youtube : https://www.youtube.com/channel/UCZqY2yIsAM9wh3vvMwKd27g\n⭔ G_I : https://kprofiles.com/wp-content/uploads/2016/12/Group-2-533x800.jpg\n⭔ Facebook :  \n⭔ Tiktok: \n⭔ Dance Video: ",
+        "members" :{
+            "JinJin" :{
+                "stage_name": "JinJin",
+                "birth_name": "Park Jin Woo",
+                "birthday": "March 15, 1996",
+                "birth_place": "Ilsan, Gyeonggi-do, South Korea",
+                "position": "Leader, Main rapper, lead dancer"
+            },
+            "mj" :{
+                "stage_name": "MJ",
+                "birth_name": "Kim Myung Jun",
+                "birthday": "March 5, 1994",
+                "birth_place": "Gyeonggi-do, South Korea",
+                "position": "Main vocalist",
+                "height": "5'9"
+            },
+            "chaeunwo" :{
+                "stage_name": "Cha Eunwoo",
+                "birth_name": "Lee Dong Min",
+                "birthday": "March 30, 1997",
+                "birth_place": "Gyeonggi-do, South Korea",
+                "position": "Vocalist, Visual, Face of The Group",
+                "height": "6'0"
+            },
+            "Moonbin" :{
+                "stage_name": "Moonbin",
+                "birth_name": "Moon Bin",
+                "birthday": "January 26 1998",
+                "birth_place": "Cheongju, Changbuk, South Korea",
+                "position": "Main dancer, lead vocalist, center",
+                "height": "5'11"
+            },
+            "Rocky" :{
+                "stage_name": "Rocky",
+                "birth_name": "Park Min Hyuk",
+                "birthday": "February 25, 1999",
+                "birth_place": "Jinju, Gyeongsang-do, South Korea",
+                "position": "Main dancer, lead rapper, vocalist",
+                "height": "5'9"
+            },
+            "Sanha" :{
+                "stage_name": "Sanha",
+                "birth_name": "Yoon San Ha",
+                "birthday": "March 21, 2000",
+                "birth_place": "Seoul, South Korea",
+                "position": "Vocalist, maknae",
+                "height": "6'0"
+            }
+        }
+    },
+    "victon": {
+        "info": "\n⭔ Group Name : Victon\n⭔ Debut Date : November 9, 2016\n⭔ Fandom Name : Alice\n⭔ Instagram :https://instagram.com/victon1109\n⭔ Twitter : https://twitter.com/VICTON1109\n⭔ Youtube : https://www.youtube.com/channel/UCQ7a83KJBE7w_txsT7VaJ8g/videos\n⭔ G_I : https://kprofiles.com/wp-content/uploads/2017/01/EmiE7bgU4AA3vVL.jpg\n⭔ Facebook : https://youtu.be/1WVkRRgcymw\n⭔ Tiktok:https://youtu.be/XKyYgsOXQ6Y\n⭔ Dance Video:https://youtu.be/svMfPxxHCmM",
+        "members" :{
+            "Seungsik" :{
+                "stage_name": "Seungsik",
+                "birth_name": "Kang Seung Sik",
+                "birthday": "April 16, 1995",
+                "birth_place": "Gyeonggi Province, South Korea",
+                "position": "Leader, main vocalist",
+                "height": "5'11",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2017/01/EnkvyD2VgAM1SyY-900x636.jpg",
+                "fan_cam": "https://youtu.be/gfhRX3O3v6g"
+            },
+            "Seungwoo" :{
+                "stage_name": "Seungwoo",
+                "birth_name": "Han Seung Woo",
+                "birthday": "December 24, 1994",
+                "birth_place": "Busan, South Korea",
+                "position": "Lead rapper, lead vocalist, lead dancer",
+                "height": "6'0",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2017/01/EnZ4mlxVEAATxwg-900x636.jpg",
+                "fan_cam": "https://youtu.be/at0vPk7Mplk"
+            },
+            "Chan" :{
+                "stage_name": "Chan",
+                "birth_name": "Heo Chan",
+                "birthday": "December 14 1995",
+                "birth_place": "Seongnam, South Korea",
+                "position": "Main dance, vocalist",
+                "height": "5'10",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2017/01/Eneh_t8VgAAV1wf-724x1024.jpg",
+                "fan_cam": "https://youtu.be/g4LBoFHoydM"
+            },
+            "Sejun" :{
+                "stage_name": "Sejun",
+                "birth_name": "Lim Se Jun",
+                "birthday": "May 4, 1996",
+                "position": "Lead vocalist, visual, face of the group",
+                "height": "5'11",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2017/01/EnFsEkQW8AAjyoV-900x636.jpg",
+                "fan_cam": "https://youtu.be/hiPbeg53Ufc"
+            },
+            "Hanse" :{
+                "stage_name": "Hanse",
+                "birth_name": "Do Han Se",
+                "birthday": "September 25, 1997",
+                "position": "Main rapper, lead dancer",
+                "nickname": "Sese",
+                "height": "5'9",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2017/01/EnQmA8sVEAI9Jmb-724x1024.jpg",
+                "fan_cam": "https://youtu.be/cbfGL9uaC24"
+            },
+            "Byungchan" :{
+                "stage_name": "Byungchan",
+                "birth_name": "Choi Byung Chan",
+                "birthday": "November 12, 1997",
+                "birth_place": "Jeonju, South Korea",
+                "position": "Vocalist, visual",
+                "height": "6'1",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2017/01/EnKoFZNUwAIie7V-900x636.jpg",
+                "fan_cam": "https://youtu.be/ZiHE60eR7zM"
+            },
+            "Subin" :{
+                "stage_name": "Subin",
+                "birth_name": "Jung Su Bin",
+                "birthday": "April 5, 1999",
+                "birth_place": "Daejeon, South Korea",
+                "position": "Vocalist, rapper, maknae",
+                "height": "5'9",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2017/01/EnP0WH0UUAAAXBX-724x1024.jpg",
+                "fan_cam": "https://youtu.be/hTV7zKAiDIE"
+            }    
+        }
+    },
+    "ace": {
+        "info": "\n⭔ Group Name : A.C.E.\n⭔ Debut Date : May 23, 2017\n⭔ Fandom Name : Choice\n⭔ Instagram :https://www.instagram.com/official_a.c.e7/\n⭔ Twitter : https://twitter.com/official_ACE7\n⭔ Youtube : https://www.youtube.com/channel/UCHs6VoM3HaRxaRlnvdtzDZQ\n⭔ G_I : https://kprofiles.com/wp-content/uploads/2017/01/group-900x620.jpg\n⭔ Facebook :  \n⭔ Tiktok: \n⭔ Dance Video: ",
+        "members" :{
+            "Jun" :{
+                "stage_name": "Jun",
+                "birth_name": "Park Jun Hee",
+                "birthday": "June 2 1994",
+                "birth_place": "Suncheon, Sorth Korea",
+                "position": "Leader, lead vocalist, lead dancer",
+                "height": "5'9",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2017/01/jun-565x800.jpg",
+                "fan_cam": "https://youtu.be/cOQ3Ml9ge8U"
+            },
+            "Donghun" :{
+                "stage_name": "Donghun",
+                "birth_name": "Lee Dong Hun",
+                "birthday": "February 28, 1993",
+                "birth_place": "Gyeongg-do, Sourth Korea",
+                "position": "Main vocalist",
+                "height": "5'9",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2017/01/donghun-565x800.jpg",
+                "fan_cam": "https://youtu.be/K_YfLaVyTMM"
+            },
+            "Wow" :{
+                "stage_name": "Wow",
+                "birth_name": "Kim Seh Yoon",
+                "birthday": "May 15, 1993",
+                "birth_place": "Jeolla-do, South Korea",
+                "position": "Main dancer, vocalist, rapper",
+                "height": "5'9",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2017/01/wow-565x800.jpg",
+                "fan_cam": "https://youtu.be/2fszIAzXyIQ"
+            },
+            "bk" :{
+                "stage_name": "BK",
+                "birth_name": "Kim Byeong Kwan (Jason)",
+                "birthday": "August 13, 1996",
+                "birth_place": "Seoul, South Korea",
+                "position": "Main dancer, vocalist, rapper",
+                "height": "5'9",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2017/01/byeongkwan-565x800.jpg",
+                "fan_cam": "https://youtu.be/agYd4_i0-AQ"
+            },
+            "Chan" :{
+                "stage_name": "Chan",
+                "birth_name": "Kang Yu Chan",
+                "birthday": "December 31, 1997",
+                "birth_place": "Jeju, South Korea",
+                "position": "Main vocalist, maknea",
+                "height": "5'10",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2017/01/chan-565x800.jpg",
+                "fan_cam": "https://youtu.be/ZGNlmcIus38"
+            }
+        }
+    },
+    "onf": {
+        "info": "\n⭔ Group Name : ONF\n⭔ Debut Date : August 3, 2017\n⭔ Fandom Name : Fuse\n⭔ Instagram :https://www.instagram.com/wm_onoff/\n⭔ Twitter : https://twitter.com/WM_ONOFF\n⭔ Youtube : https://www.youtube.com/channel/UCgdj5bL5_Il2tqsQ7J4k6zw/\n⭔ G_I : https://kprofiles.com/wp-content/uploads/2017/08/group-4-900x699.jpg\n⭔ Facebook :  \n⭔ Tiktok: \n⭔ Dance Video: ",
+        "members" :{
+            "Hyojin" :{
+                "stage_name": "Hyojin",
+                "birth_name": "Kim Hyo Jin",
+                "birthday": "April 22, 1994",
+                "birth_place": "Seoul, South Korea",
+                "position": " ON Team Leader, Main Vocalist",
+                "height": "5'8",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2017/08/hyojin-621x800.jpg"
+            },
+            "Tion" :{
+                "stage_name": "E-Tion",
+                "birth_name": "Lee Chang Yoon",
+                "birthday": " December 24, 1994",
+                "birth_place": "Jeonju, South Korea",
+                "position": "Lead Vocalist",
+                "height": "5'8",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2017/08/e-tion-621x800.jpg"
+            },
+            "jus" :{
+                "stage_name": "J-Us",
+                "birth_name": "Lee Seung Jun",
+                "birthday": "January 13, 1995",
+                "birth_place": "Seoul, South Korea",
+                "position": "OFF Team Leader, Lead Dancer, Vocalist, Rapper",
+                "height": "5’8",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2017/08/j-us-900x699.jpg"
+            },
+            "wyatt" :{
+                "stage_name": "Wyatt",
+                "birth_name": " Shim Jae Young",
+                "birthday": "January 23, 1995",
+                "birth_place": "Seoul, South Korea",
+                "position": "Main Rapper, Lead Dancer, Vocalist",
+                "height": "5'9",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2017/08/wyatt-621x800.jpg"
+            },
+            "mk" :{
+                "stage_name": "MK",
+                "birth_name": "Park Min Kyun",
+                "birthday": "November 16, 1995",
+                "birth_place": "Anyang, South Korea",
+                "position": " Lead Vocalist, Sub Rapper",
+                "height": "5'10",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2017/08/mk-621x800.jpg"
+            },
+            "u" :{
+                "stage_name": "U",
+                "birth_name": "Mizuguchi Yuto",
+                "birthday": "March 16, 1999",
+                "birth_place": "Osaka, Japan",
+                "position": "Main Dancer, Lead Rapper, Sub Vocalist, Maknae",
+                "height": "5'7",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2017/08/u-621x800.jpg"
+            }
+        }
+    },
+    "blockB": {
+        "info": "\n⭔ Group Name : Block B\n⭔ Debut Date : April 13, 2011\n⭔ Fandom Name : BBC\n⭔ Instagram :https://www.instagram.com/blockb_official_/\n⭔ Twitter : https://twitter.com/blockb_official\n⭔ Youtube : https://www.youtube.com/channel/UCWxCyZibDIWIrGIgP25mbfw\n⭔ G_I : https://kprofiles.com/wp-content/uploads/2016/04/Group-11-900x600.jpg\n⭔ Facebook :  \n⭔ Tiktok: \n⭔ Dance Video: ",
+        "members" :{
+            "Zico" :{
+                "stage_name": "Zico",
+                "birth_name": "Woo Ji Ho",
+                "birthday": "September 14, 1992",
+                "birth_place": " Mapo, Seoul, South Korea",
+                "position": "Leader, Main Rapper, Vocalist, Face of the Group",
+                "height": "5’11",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2016/04/1-Zico-533x800.jpg"
+            },
+            "Taeil" :{
+                "stage_name": "Taeil",
+                "birth_name": "Lee Tae Il",
+                "birthday": "September 24, 1990",
+                "birth_place": "Seoul, South Korea",
+                "position": "Main Vocalist",
+                "height": "5’6",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2016/04/2-Taeil-900x619.jpg"
+            },
+            "bomb" :{
+                "stage_name": "B-Bomb",
+                "birth_name": "Lee Min Hyuk",
+                "birthday": "December 14, 1990",
+                "birth_place": "Seoul, South Korea",
+                "position": "Main Dancer, Vocalist",
+                "height": "5’9",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2016/04/3-B-Bomb-533x800.jpg"
+            },
+            "Jaehyo" :{
+                "stage_name": "Jaehyo",
+                "birth_name": "Ahn Jae Hyo",
+                "birthday": "December 23, 1990",
+                "birth_place": "Busan, South Korea",
+                "position": "Lead Vocalist, Visual",
+                "height": "6’0",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2016/04/4-Jaehyo-611x800.jpg"
+            },
+            "kwon" :{
+                "stage_name": "U-Kwon",
+                "birth_name": "Kim Yoo Kwon",
+                "birthday": "April 9, 1992",
+                "birth_place": "Suwon, South Korea",
+                "position": "Lead Dancer, Vocalist",
+                "height": "5’9",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2016/04/5-U-Kwon-533x800.jpg"
+            },
+            "jyung" :{
+                "stage_name": "Kyung",
+                "birth_name": "Park Kyung",
+                "birthday": "July 8, 1992",
+                "birth_place": "Seoul, South Korea",
+                "position": "Lead Rapper, Vocalist",
+                "height": "5’7",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2016/04/5-Kyung-900x619.jpg"
+            },
+            "po" :{
+                "stage_name": "P.O.",
+                "birth_name": "Pyo Ji Hoon",
+                "birthday": "February 2, 1993",
+                "birth_place": "Seoul, South Korea",
+                "position": "Lead Rapper, Vocalist, Maknae",
+                "height": "5’11",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2016/04/7-P.O-533x800.jpg"
+            }
+            
+        }
+    },
+    "ikon": {
+        "info": "\n⭔ Group Name : Ikon\n⭔ Debut Date : September 15th, 2015\n⭔ Fandom Name : iKONIC\n⭔ Instagram :https://www.instagram.com/withikonic/\n⭔ Twitter : https://twitter.com/YG_iKONIC/\n⭔ Youtube : https://www.youtube.com/channel/UCWxCyZibDIWIrGIgP25mbfw\n⭔ G_I :  \n⭔ Facebook :  \n⭔ Tiktok: \n⭔ Dance Video: ",
+        "members" :{
+            "Bobby" :{
+                "stage_name": "Bobby",
+                "birth_name": "Kim Ji Won",
+                "birthday": "December 21, 1995",
+                "birth_place": "Seoul, South Korea",
+                "position": "Main Rapper, Sub Vocalist, Face of the Group",
+                "height": "5’9"
+            },
+            "jay" :{
+                "stage_name": "Jay",
+                "birth_name": "Kim Jin Hwan",
+                "birthday": "February 7, 1994",
+                "birth_place": "Jeju-do, South Korea",
+                "position": "Main Vocalist, Lead Dancer",
+                "height": "5’5"
+            },
+            "june" :{
+                "stage_name": "Ju-ne",
+                "birth_name": "Koo Jun Hoe",
+                "birthday": "March 31, 1997",
+                "birth_place": "N/A",
+                "position": "Main Vocalist, Lead Dancer",
+                "height": "6'0"
+            },
+            "song" :{
+                "stage_name": "Song",
+                "birth_name": "Song Yoon Hyung",
+                "birthday": "February 8, 1995",
+                "birth_place": "Seoul, South Korea",
+                "position": "Sub Vocalist, Visual, Center",
+                "height": "5’9"
+            },
+            "dk" :{
+                "stage_name": "DK",
+                "birth_name": "Kim Dong Hyuk",
+                "birthday": "January 3, 1997",
+                "birth_place": "N/A",
+                "position": "Main Dancer, Sub Vocalist",
+                "height": "5’8"
+            },
+            "chan" :{
+                "stage_name": "Chan",
+                "birth_name": "Jung Chan Woo",
+                "birthday": "January 26, 1998",
+                "birth_place": "Yongin, Gyeonggi, South Korea",
+                "position": "Sub Vocalist, Maknae",
+                "height": "5'11"
+            }
+        }
+    },
+    "2pm": {
+        "info": "\n⭔ Group Name : 2PM\n⭔ Debut Date : September 4, 2008\n⭔ Fandom Name : Hottest\n⭔ Instagram :https://www.instagram.com/real_2pmstagram/\n⭔ Twitter : https://twitter.com/follow_2pm\n⭔ Youtube : https://www.youtube.com/user/2pm\n⭔ G_I :  \n⭔ Facebook :  \n⭔ Tiktok: \n⭔ Dance Video: ",
+        "members" :{
+            "jun" :{
+                "stage_name": "Jun K",
+                "birth_name": "Kim Min Jun",
+                "birthday": "January 15, 1988",
+                "birth_place": "Daegu, South Korea",
+                "position": "Main Vocalist",
+                "height": "5’11"
+            },
+            "Nichkhun" :{
+                "stage_name": "Nichkhun",
+                "birth_name": "Nichkhun Buck Horvejkul",
+                "birthday": "June 24, 1988",
+                "birth_place": "Rancho Cucamonga, California",
+                "position": "Vocalist, Rapper, Visual",
+                "height": "5’11"
+            },
+            "Taecyeon" :{
+                "stage_name": "Taecyeon",
+                "birth_name": "Ok Taec Yeon",
+                "birthday": "December 27, 1988",
+                "birth_place": "Seoul, South Korea",
+                "position": "Main Rapper, Sub-Vocalist, 2nd Visual",
+                "height": "6’1"
+            },
+            "Wooyoung" :{
+                "stage_name": "Wooyoung ",
+                "birth_name": "Jang Woo Young",
+                "birthday": "April 30, 1989",
+                "birth_place": "Busan, South Korea",
+                "position": "Main Dancer, Lead Vocalist",
+                "height": "5’10"
+            },
+            "Junho" :{
+                "stage_name": "Junho",
+                "birth_name": "Lee Jun Ho",
+                "birthday": "January 25, 1990",
+                "birth_place": "Ilsan, Goyang, South Korea",
+                "position": "Main Vocalist, Lead Dancer",
+                "height": "5’10"
+            },
+            "Chansung" :{
+                "stage_name": "Chansung",
+                "birth_name": "Hwang Chan Sung",
+                "birthday": "February 11, 1990",
+                "birth_place": "Seoul, South Korea",
+                "position": "Lead Rapper, Vocalist, Maknae",
+                "height": "6’0"
+            }
+            
+            
+        }
+    },
+    "shinee": {
+        "info": "\n⭔ Group Name : SHINee\n⭔ Debut Date : May 25, 2008\n⭔ Fandom Name : Shawol\n⭔ Instagram :https://www.instagram.com/shinee/\n⭔ Twitter : https://twitter.com/SHINee\n⭔ Youtube : https://www.youtube.com/playlist?list=PL951D17CB22CD1A8F\n⭔ G_I :  \n⭔ Facebook :  \n⭔ Tiktok: \n⭔ Dance Video: ",
+        "members" :{
+            "OneW" :{
+                "stage_name": "OneW",
+                "birth_name": "Lee Jin Ki",
+                "birthday": "December 14, 1989",
+                "birth_place": "Gwangmyeong, Gyeonggi-do, South Korea",
+                "position": " Leader, Main Vocalist",
+                "height": "5’10"
+            },
+            "Key" :{
+                "stage_name": "Key",
+                "birth_name": "Kim Ki Bum",
+                "birthday": "September 23, 1991",
+                "birth_place": "Daegu, South Korea",
+                "position": "Lead Rapper, Lead Dancer, Sub Vocalist",
+                "height": "5’10"
+            },
+            "Minho" :{
+                "stage_name": "Minho",
+                "birth_name": "Choi Min Ho",
+                "birthday": "December 9, 1991",
+                "birth_place": "Incheon, South Korea",
+                "position": "Main Rapper, Sub Vocalist, Visual",
+                "height": "5’11"
+            },
+            "Taemin" :{
+                "stage_name": "Taemin",
+                "birth_name": "Lee Tae Min",
+                "birthday": "July 19, 1993",
+                "birth_place": "Seoul, South Korea",
+                "position": "Main dancer, main vocalist, center & Member of SHINee",
+                "height": "5'9"
+            },
+            "Jonghyun" :{
+                "stage_name": "Jonghyun",
+                "birth_name": "Kim Jong Hyun",
+                "birthday": "April 8, 1990",
+                "birth_place": "Seoul, South Korea",
+                "position": "Main Vocalist",
+                "height": "5’8"
+            }
+        }
+    },
+    "dCrunch": {
+        "info": "\n⭔ Group Name : D-Crunch\n⭔ Debut Date : August 6, 2018\n⭔ Fandom Name : DIANA\n⭔ Instagram :https://www.instagram.com/d_crunch_official/\n⭔ Twitter : https://twitter.com/DIA_CRUNCH\n⭔ Youtube : https://www.youtube.com/channel/UCCyCvwz4NSX1wfUYoYnLU_Q\n⭔ G_I : https://kprofiles.com/wp-content/uploads/2018/08/Group-2-900x600.jpg\n⭔ Facebook :  \n⭔ Tiktok: \n⭔ Dance Video: ",
+        "members" :{
+            "ov" :{
+                "stage_name": "O.V.",
+                "birth_name": "Kim Sang Chan",
+                "birthday": "January 3, 1999",
+                "birth_place": "Changwon, Gyeongsangnam-do, South Korea",
+                "position": "Leader, Main Rapper, Main Dancer",
+                "height": "5’9"
+            },
+            "Hyunwook" :{
+                "stage_name": "Hyunwook",
+                "birth_name": "Ji Hyun Wook",
+                "birthday": "July 1, 1998",
+                "birth_place": "Gwangmyeong, Gyeonggi-do, South Korea",
+                "position": "Main Vocalist",
+                "height": "5’10"
+            },
+            "Hyunho" :{
+                "stage_name": "Hyunho",
+                "birth_name": "Lee Hyun Ho",
+                "birthday": "November 4, 1998",
+                "birth_place": "Ulsan, Gyeongsangnam-do, South Korea",
+                "position": "Rapper",
+                "height": "6’0"
+            },
+            "Hyunoh" :{
+                "stage_name": "Hyunoh",
+                "birth_name": "Park Hyun Oh",
+                "birthday": "March 19, 1999",
+                "birth_place": "Changwon, Gyeongsangnam-do, South Korea",
+                "position": "Lead Vocalist, Main Dancer",
+                "height": "5’9"
+            },
+            "Minhyuk" :{
+                "stage_name": "Minhyuk",
+                "birth_name": "Kim Min Hyuk",
+                "birthday": "November 6, 1999",
+                "birth_place": "Suwon, Gyeonggi-do, South Korea",
+                "position": "Rapper",
+                "height": "5’10"
+            },
+            "Chanyoung" :{
+                "stage_name": "Chanyoung",
+                "birth_name": "Kim Chan Young",
+                "birthday": "November 20, 2000",
+                "birth_place": "Ulsan, Gyeongsangnam-do, South Korea",
+                "position": "Lead Rapper, Main Dancer",
+                "height": "5’10"
+            },
+            "Dylan" :{
+                "stage_name": "Dylan",
+                "birth_name": "Park Yeon Jae",
+                "birthday": "July 26, 2002",
+                "birth_place": "Ilsan, Gyeonggi-do, South Korea",
+                "position": " Vocalist, Rapper, Maknae",
+                "height": "5’9"
+            },
+            "Jeongseung" :{
+                "stage_name": "Jeongseung",
+                "birth_name": "Park Jeong Seung",
+                "birthday": "May 20, 2002",
+                "birth_place": "Iksan, Jeollabuk-do, South Korea",
+                "position": "Vocalist, Rapper",
+                "height": "5’11"
+            },
+            "Hyunwoo" :{
+                "stage_name": "Hyunwoo",
+                "birth_name": "Baek Hyun Woo",
+                "birthday": " February 12, 1999",
+                "birth_place": "N/A",
+                "position": "Vocalist",
+                "height": "5’8"
+            }
+        }
+    },
+    "vanner": {
+        "info": "\n⭔ Group Name : Vanner\n⭔ Debut Date : February 14, 2019\n⭔ Fandom Name : VVS\n⭔ Instagram :https://www.instagram.com/vanner__official/?utm_source=ig_profile_share&amp&igshid=1j3bcuf8mxh8l\n⭔ Twitter : https://twitter.com/VannerOfficial\n⭔ Youtube : https://www.youtube.com/channel/UCKFUrXJUN8HElgropyKyYhg/videos\n⭔ G_I : https://kprofiles.com/wp-content/uploads/2019/01/vanner-grp-900x599.jpeg\n⭔ Facebook : https://youtu.be/VqNc2rn9NRQ\n⭔ Tiktok:https://youtu.be/RtN8aGucfjA\n⭔ Dance Video:https://youtu.be/UMPX0OFKQNA",
+        "members" :{
+            "Taehwan" :{
+                "stage_name": "Taehwan",
+                "birth_name": "Lee Tae Hwan",
+                "birthday": "January 15, 1994",
+                "birth_place": "N/A",
+                "position": "Leader, Main Vocalist",
+                "height": "5’9",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2019/01/vanner-taehwan-900x734.jpeg"
+            },
+            "gon" :{
+                "stage_name": "Gon",
+                "birth_name": "Lee Won Seo",
+                "birthday": "August 7, 1995",
+                "birth_place": "N/A",
+                "position": "Vocalist, Main Rapper, Main Dancer",
+                "height": "5'11",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2019/01/vanner-gon-900x600.jpeg"
+            },
+            "Hyeseong" :{
+                "stage_name": "Hyeseong",
+                "birth_name": "Park Hye Seong",
+                "birthday": "January 17, 1996",
+                "birth_place": "N/A",
+                "position": "Lead Vocalist, Lead Dancer",
+                "height": "5’9",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2019/01/vanner-hyesung-900x506.jpeg"
+            },
+            "Ahxian" :{
+                "stage_name": "Ahxian",
+                "birth_name": "Park Sung Kook",
+                "birthday": "March 27, 1996",
+                "birth_place": "N/A",
+                "position": "Lead Rapper",
+                "height": "5’10",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2019/01/vanner-ahxin-606x800.jpeg"
+            },
+            "Yeonggwang" :{
+                "stage_name": "Yeonggwang",
+                "birth_name": "Ahn Young Jun",
+                "birthday": "September 22, 1997",
+                "birth_place": "N/A",
+                "position": "Vocalist, Visual, Maknae",
+                "height": "5’9",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2019/01/vanner-yeongkwang-640x800.jpeg"
+            }
+        }
+    },
+    "pentagon": {
+        "info": "\n⭔ Group Name : Pentagon\n⭔ Debut Date : October 10, 2016\n⭔ Fandom Name : Universe\n⭔ Instagram :https://www.instagram.com/cube_ptg/?hl=en\n⭔ Twitter : https://twitter.com/cube_ptg\n⭔ Youtube : https://www.youtube.com/officialpentagon\n⭔ G_I :  \n⭔ Facebook :  \n⭔ Tiktok: \n⭔ Dance Video: ",
+        "members" :{
+            "Hui" :{
+                "stage_name": "Hui",
+                "birth_name": "Lee Hoe Taek",
+                "birthday": "August 28, 1993",
+                "birth_place": "Gwacheon, South Korea",
+                "position": "Leader, Main Vocalist, Lead Dancer, Producer",
+                "height": "5’8"
+            },
+            "Jinho" :{
+                "stage_name": "Jinho",
+                "birth_name": "Jo Jin Ho",
+                "birthday": "April 17, 1992",
+                "birth_place": " Seoul, South Korea",
+                "position": "Main Vocalist",
+                "height": "5’6"
+            },
+            "Hongseok" :{
+                "stage_name": "Hongseok",
+                "birth_name": "Yang Hong Seok",
+                "birthday": "April 17, 1994",
+                "birth_place": "N/A",
+                "position": "Main Vocalist",
+                "height": "5’10"
+            },
+            "Shinwon" :{
+                "stage_name": "Shinwon",
+                "birth_name": "Ko Shin Won",
+                "birthday": "December 11, 1995",
+                "birth_place": "Cheongju-si, South Korea",
+                "position": "Sub Vocalist",
+                "height": "6’0"
+            },
+            "Yeo" :{
+                "stage_name": "Yeo One",
+                "birth_name": "Yeo Chang Gu",
+                "birthday": "March 27, 1996",
+                "birth_place": "Daejeon Gwangyeoksi Central, South Korea",
+                "position": "Lead Vocalist",
+                "height": "5’10"
+            },
+            "Yanan" :{
+                "stage_name": "Yanan",
+                "birth_name": "Yan An",
+                "birthday": "October 25, 1996",
+                "birth_place": "Shanghai, People’s Republic of China",
+                "position": "Sub Vocalist, Visual",
+                "height": "6’2"
+            },
+            "Yuto" :{
+                "stage_name": "Yuto",
+                "birth_name": "Adachi Yuto",
+                "birthday": "January 23, 1998",
+                "birth_place": "Nagano, Japan",
+                "position": "Lead Rapper, Lead Dancer, Sub Vocalist",
+                "height": "6’1"
+            },
+            "Kino" :{
+                "stage_name": "Kino",
+                "birth_name": "Kang Hyung Gu",
+                "birthday": "January 27, 1998",
+                "birth_place": "Seongnam, South Korea",
+                "position": "Main Dancer, Sub Vocalist, Sub Rapper, Face of the Group",
+                "height": "5’10"
+            },
+            "Wooseok" :{
+                "stage_name": "Wooseok",
+                "birth_name": "Jung Woo Seok",
+                "birthday": "January 31, 1998",
+                "birth_place": "Gwangju, South Korea",
+                "position": "Main Rapper, Sub Vocalist, Maknae",
+                "height": "6’2"
+            }
+        }
+    },
+    "wayV": {
+        "info": "\n⭔ Group Name : WayV\n⭔ Debut Date : January 17, 2019\n⭔ Fandom Name : WayZenNi\n⭔ Instagram :https://www.instagram.com/WayVofficial/\n⭔ Twitter : https://twitter.com/WayV_official/\n⭔ Youtube : https://www.youtube.com/channel/UC-ZHt5Zgadfx-B1CM63Lqew\n⭔ G_I :  \n⭔ Facebook :  \n⭔ Tiktok: \n⭔ Dance Video: ",
+        "members" :{
+            "Kun" :{
+                "stage_name": "Kun",
+                "birth_name": "Qian Kun",
+                "birthday": "January 1, 1996",
+                "birth_place": "Fujian, China",
+                "position": "Leader, Main Vocalist, Sub Rapper",
+                "height": "5’9"
+            },
+            "YangYang" :{
+                "stage_name": "YangYang",
+                "birth_name": "Liu YangYang",
+                "birthday": "October 10, 2000",
+                "birth_place": "Taiwan, Republic of China",
+                "position": "Main Rapper, Main Dancer, Sub Vocalist",
+                "height": "5’8"
+            },
+            "Xiao" :{
+                "stage_name": "Xiao Jun",
+                "birth_name": "Xiao Dejun",
+                "birthday": "August 8, 1999",
+                "birth_place": "Dongguan, Guangdong, China",
+                "position": "Main Vocalist, Sub Rapper",
+                "height": "5’7"
+            },
+            "Hendery" :{
+                "stage_name": "Hendery",
+                "birth_name": "Wong Kunhang",
+                "birthday": "September 28, 1999",
+                "birth_place": "Macau, People’s Republic of China",
+                "position": "Main Rapper, Lead Dancer, Sub Vocalist, Visual Center",
+                "height": "5’9"
+            },
+            "WinWin" :{
+                "stage_name": "WinWin",
+                "birth_name": "Dong Si Cheng",
+                "birthday": "October 28, 1997",
+                "birth_place": "Wenzhou, Zhejiang, People’s Republic of China",
+                "position": "Lead Dancer, Lead Rapper, Sub Vocalist, Visual",
+                "height": "5’10"
+            },
+            "ten" :{
+                "stage_name": "Ten",
+                "birth_name": "Chittaphon Leechaiyopornkul/Lee Young Heum, Li Yong Qin",
+                "birthday": "February 27, 1996",
+                "position": "Lead dancer, lead vocalist, rapper & Member of NCT U, WayV",
+                "height": "5'8"
+            },
+            "Lucas" :{
+                "stage_name": "Lucas",
+                "birth_name": "Huang Xuxi/ Wong Yuk-hei/Hwang Wook Hee",
+                "birthday": "Jan 25, 1999",
+                "birth_place": "Hong Kong, China",
+                "position": "Lead rapper & Member of NCT U, WayV",
+                "height": "6'0"
+            }
+        }
+    },
+    "nuEst": {
+        "info": "\n⭔ Group Name : NuEst\n⭔ Debut Date : March 15, 2012\n⭔ Fandom Name : L.O.Λ.E\n⭔ Instagram :https://www.instagram.com/nuest_official/\n⭔ Twitter : https://twitter.com/nuestnews\n⭔ Youtube : https://www.youtube.com/channel/UCUuyrV8JDv5UAMW2StsL-NA\n⭔ G_I :  \n⭔ Facebook :  \n⭔ Tiktok: \n⭔ Dance Video: ",
+        "members" :{
+            "jr" :{
+                "stage_name": "JR",
+                "birth_name": "Kim Jong Hyun",
+                "birthday": "June 8, 1995",
+                "birth_place": "Kangreung, Kangwon-do, South Korea",
+                "position": " Leader, Main Rapper, Main Dancer, Face of the Group, Vocalist",
+                "height": "5’9"
+            },
+            "Aron" :{
+                "stage_name": "Aron",
+                "birth_name": "Aaron Kwak",
+                "birthday": "May 21, 1993",
+                "birth_place": "Los Angeles, California, USA",
+                "position": "Lead Rapper, Lead Dancer, Sub Vocalist",
+                "height": "5’8"
+            },
+            "Baekho" :{
+                "stage_name": "Baekho",
+                "birth_name": "Kang Dong Ho",
+                "birthday": "July 21, 1995",
+                "birth_place": "Jeju, South Korea",
+                "position": "Main Vocalist",
+                "height": "5’9"
+            },
+            "Minhyun" :{
+                "stage_name": "Minhyun",
+                "birth_name": "Hwang Min Hyun",
+                "birthday": "August 9, 1995",
+                "birth_place": "Busan, South Korea",
+                "position": "Lead Vocalist, Visual",
+                "height": "5’11"
+            },
+            "ren" :{
+                "stage_name": " Ren",
+                "birth_name": "Choi Min Ki",
+                "birthday": "November 3, 1995",
+                "birth_place": "Busan, South Korea",
+                "position": "Sub Vocalist, Maknae",
+                "height": "5’9"
+            }
+        }
+    },
+    "sf9": {
+        "info": "\n⭔ Group Name : SF9\n⭔ Debut Date : October 5, 2016\n⭔ Fandom Name : Fantasy\n⭔ Instagram :https://www.instagram.com/sf9official/\n⭔ Twitter : https://twitter.com/sf9official\n⭔ Youtube : https://www.youtube.com/SF9Official\n⭔ G_I :  \n⭔ Facebook :  \n⭔ Tiktok: \n⭔ Dance Video: ",
+        "members" :{
+            "Youngbin" :{
+                "stage_name": "Youngbin",
+                "birth_name": "Kim Young Bin",
+                "birthday": "November 23, 1993",
+                "birth_place": "Anyang, South Korea",
+                "position": "Leader, Lead Dancer, Lead Rapper",
+                "height": "5’10"
+            },
+            "Inseong" :{
+                "stage_name": "Inseong",
+                "birth_name": "Kim In Seong",
+                "birthday": "July 12, 1993",
+                "birth_place": "Nowon-gu, Seoul, South Korea",
+                "position": "Main Vocalist",
+                "height": "6’0"
+            },
+            "Jaeyoon" :{
+                "stage_name": "Jaeyoon",
+                "birth_name": "Lee Jae Yoon",
+                "birthday": "August 9, 1994",
+                "birth_place": "Nam-gu, Busan, South Korea",
+                "position": "Sub Vocalist",
+                "height": "6’0"
+            },
+            "Dawon" :{
+                "stage_name": "Dawon",
+                "birth_name": "Lee Sang Hyuk",
+                "birthday": "July 24, 1995",
+                "birth_place": "Ilsan, South Korea",
+                "position": "Sub Vocalist",
+                "height": "5’10"
+            },
+            "Zuho" :{
+                "stage_name": "Zuho",
+                "birth_name": "Baek Ju Ho",
+                "birthday": "July 4, 1996",
+                "birth_place": "Seongbuk-gu, Seoul, South Korea",
+                "position": "Main Rapper",
+                "height": "6’1"
+            },
+            "Rowoon" :{
+                "stage_name": "Rowoon",
+                "birth_name": "Kim Seok Woo",
+                "birthday": "August 7, 1996",
+                "birth_place": "Daechi-dong, Gangnam-gu, Seoul, South Korea",
+                "position": "Lead Vocalist, Visual, Center",
+                "height": "6’3"
+            },
+            "Yoo" :{
+                "stage_name": "Yoo Taeyang",
+                "birth_name": "Yoo Tae Yang",
+                "birthday": "February 28, 1997",
+                "birth_place": "Mok-dong, Yangcheon-gu, Seoul, South Korea",
+                "position": "Sub Vocalist, Main Dancer",
+                "height": "5’11"
+            },
+            "Hwiyoung" :{
+                "stage_name": "Hwiyoung",
+                "birth_name": "Kim Young Kyun",
+                "birthday": "May 11, 1999",
+                "birth_place": "Jecheon-si, Chungcheongbuk-do, South Korea",
+                "position": "Sub Rapper",
+                "height": "5’10"
+            },
+            "Chani" :{
+                "stage_name": "Chani",
+                "birth_name": "Kang Chan Hee",
+                "birthday": "January 17, 2000",
+                "birth_place": "Seo-gu, Daejeon, South Korea",
+                "position": "Main Dancer, Sub Rapper, Face of the Group, Maknae",
+                "height": "5’10"
+            }
+        }
+    },
+    "harmony": {
+        "info": "\n⭔ Group Name : P1Harmony\n⭔ Debut Date : October 28th, 2020\n⭔ Fandom Name :  \n⭔ Instagram :https://www.instagram.com/p1h_official/\n⭔ Twitter : https://twitter.com/P1H_official\n⭔ Youtube : https://www.youtube.com/channel/UCe-XzQhLaq4zS_mPXzuc_2Q\n⭔ G_I :  \n⭔ Facebook :  \n⭔ Tiktok: \n⭔ Dance Video: ",
+        "members" :{
+            "Keeho" :{
+                "stage_name": "Keeho",
+                "birth_name": "Yoon Kee Ho",
+                "birthday": "September 27th, 2001",
+                "birth_place": "N/A",
+                "position": "Leader, Vocalist",
+                "height": "5’10"
+            },
+            "Theo" :{
+                "stage_name": "Theo",
+                "birth_name": "Choi Tae Yang",
+                "birthday": "July 1st, 2001",
+                "birth_place": "N/A",
+                "position": "Vocalist",
+                "height": "5’11"
+            },
+            "Jiung" :{
+                "stage_name": "Jiung",
+                "birth_name": "Choi Ji Ung",
+                "birthday": "October 7th, 2001",
+                "birth_place": "N/A",
+                "position": "Rapper, Vocalist, Dancer",
+                "height": "5’10"
+            },
+            "Intak" :{
+                "stage_name": "Intak",
+                "birth_name": "Hwang In Tak",
+                "birthday": "August 31st, 2003",
+                "birth_place": "N/A",
+                "position": "Rapper, Dancer",
+                "height": "5’11"
+            },
+            "Soul" :{
+                "stage_name": "Soul",
+                "birth_name": "Haku Shota",
+                "birthday": "February 1st, 2005",
+                "birth_place": "N/A",
+                "position": "Rapper, Dancer",
+                "height": "5’8"
+            },
+            "Jongseob" :{
+                "stage_name": "Jongseob",
+                "birth_name": "Kim Jong Seob",
+                "birthday": "November 19th, 2005",
+                "birth_place": "N/A",
+                "position": "Rapper, Dancer, Maknae",
+                "height": "5’9"
+            }
+        }
+    },
+    "onlyOneOf": {
+        "info": "\n⭔ Group Name : OnlyOneOf\n⭔ Debut Date : May 28, 2019\n⭔ Fandom Name : lyOn\n⭔ Instagram :https://www.instagram.com/onlyoneofofficial/\n⭔ Twitter : https://twitter.com/OnlyOneOf_twt\n⭔ G_I : https://kprofiles.com/wp-content/uploads/2019/06/ONF.jpg\n⭔ Facebook :  \n⭔ Tiktok: \n⭔ Dance Video: ",
+        "members" :{
+            "love" :{
+                "stage_name": "Love",
+                "birth_name": "Park Jisung",
+                "birthday": "January 17, 1994",
+                "birth_place": "N/A",
+                "position": "Leader, Main Vocalist",
+                "height": "5’11",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2019/06/Love-1-533x800.jpg"
+            },
+            "kb" :{
+                "stage_name": "KB",
+                "birth_name": "Shin Kyubin",
+                "birthday": "April 23, 1992",
+                "birth_place": "N/A",
+                "position": "Lead Rapper, Vocalist, Visual",
+                "height": "5’11",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2019/06/KB-1-533x800.jpg"
+            },
+            "rie" :{
+                "stage_name": "Rie",
+                "birth_name": "Lee Sungho",
+                "birthday": "November 6, 1996",
+                "birth_place": "N/A",
+                "position": "Lead Vocalist, Lead Dancer",
+                "height": "N/A",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2019/06/Rie-1-621x800.jpg"
+            },
+            "Yoojung" :{
+                "stage_name": "Yoojung",
+                "birth_name": "Lee Taeyeob",
+                "birthday": "May 29, 1997",
+                "birth_place": "N/A",
+                "position": "Main Dancer, Vocalist, Visual",
+                "height": "N/A",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2019/06/Youjung-533x800.jpg"
+            },
+            "Junji" :{
+                "stage_name": "Junji",
+                "birth_name": "Kim Junhyung",
+                "birthday": "April 6, 1998",
+                "birth_place": "N/A",
+                "position": "Lead Vocalist, Lead Dancer",
+                "height": "5’11",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2019/06/Junji-533x800.jpg"
+            },
+            "Mill" :{
+                "stage_name": "Mill",
+                "birth_name": "Lee Yongsoo",
+                "birthday": "March 30, 1999",
+                "birth_place": "N/A",
+                "position": "Main Rapper, Vocalist",
+                "height": "N/A",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2019/06/Mill-1-533x800.jpg"
+            },
+            "Nine" :{
+                "stage_name": "Nine",
+                "birth_name": "Jung Wookjin",
+                "birthday": "December 13, 1999",
+                "birth_place": "N/A",
+                "position": "Vocalist, Maknae",
+                "height": "5’10",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2019/06/Nine-1-533x800.jpg"
+            }
+        }
+    },
+    "Ccravity": {
+        "info": "\n⭔ Group Name : Cravity\n⭔ Debut Date : April 14, 2020\n⭔ Fandom Name : LUVITY\n⭔ Instagram :https://www.instagram.com/cravity_official/\n⭔ Twitter : https://mobile.twitter.com/CRAVITY_twt\n⭔ Youtube : https://m.youtube.com/channel/UCRm-0JVuUFh5HV7NGG7qXlQ\n⭔ G_I :  \n⭔ Facebook :  \n⭔ Tiktok: \n⭔ Dance Video: ",
+        "members" :{
+            "Serim" :{
+                "stage_name": "Serim",
+                "birth_name": "Park Se Rim",
+                "birthday": "March 3rd, 1999",
+                "birth_place": "Yongin, Gyeonggi-do, South Korea",
+                "position": "Leader, Main Rapper, Visual",
+                "height": "5’8"
+            },
+            "Allen" :{
+                "stage_name": "Allen",
+                "birth_name": "Allen Ma",
+                "birthday": "April 26th, 1999",
+                "birth_place": "Taipei, Taiwan",
+                "position": "Main Dancer, Lead Rapper",
+                "height": "5’6"
+            },
+            "Jungmo" :{
+                "stage_name": "Jungmo",
+                "birth_name": "Koo Jung Mo",
+                "birthday": "February 5th, 2000",
+                "birth_place": "Apgujeong, Gangnam, Seoul South Korea",
+                "position": "Lead Vocalist, Visual",
+                "height": "5’11"
+            },
+            "Woobin" :{
+                "stage_name": "Woobin",
+                "birth_name": "Seo Woo Bin",
+                "birthday": "October 16th, 2000",
+                "birth_place": "Gwangju, South Korea",
+                "position": "Main Vocalist",
+                "height": "5’8"
+            },
+            "Wonjin" :{
+                "stage_name": "Wonjin",
+                "birth_name": "Ham Won Jin",
+                "birthday": "March 22nd, 2001",
+                "birth_place": "Eunpyeong, Seoul, South Korea",
+                "position": "Lead Vocalist, Lead Dancer",
+                "height": "5’8"
+            },
+            "Minhee" :{
+                "stage_name": "Minhee",
+                "birth_name": "Kang Min Hee",
+                "birthday": "September 17th, 2002",
+                "birth_place": "Suncheon-si, South Jeolla, South Korea",
+                "position": "Lead Vocalist, Visual",
+                "height": "6’0"
+            },
+            "Hyeongjun" :{
+                "stage_name": "Hyeongjun",
+                "birth_name": "Song Hyeong Jun",
+                "birthday": "November 30th, 2002",
+                "birth_place": "Gyeongnam, Tongyeong, South Korea",
+                "position": "Main Dancer, Sub Vocalist",
+                "height": "5’8"
+            },
+            "Taeyoung" :{
+                "stage_name": "Taeyoung",
+                "birth_name": "Kim Tae Young",
+                "birthday": "January 27th, 2003",
+                "birth_place": "Yeonsu-gu, Incheon, South Korea",
+                "position": "Sub Vocalist",
+                "height": "5’10"
+            },
+            "Seongmin" :{
+                "stage_name": "Seongmin",
+                "birth_name": "Ahn Seong Min",
+                "birthday": "August 1st, 2003",
+                "birth_place": "Songpa-gu, Seoul, South Korea",
+                "position": "Sub Vocalist, Maknae",
+                "height": "5’6"
+            }
+        }
+    },
+    "wei": {
+        "info": "\n⭔ Group Name : WEi\n⭔ Debut Date : October 5th, 2020\n⭔ Fandom Name : RUi\n⭔ Instagram :https://www.instagram.com/wei__official/\n⭔ Twitter : https://twitter.com/WEi__Official\n⭔ Youtube : https://www.youtube.com/channel/UC_sMGOWZ7FP7rsUAnQSM4HQ\n⭔ G_I :  \n⭔ Facebook :  \n⭔ Tiktok: \n⭔ Dance Video: ",
+        "members" :{
+            "Daehyeon" :{
+                "stage_name": "Daehyeon",
+                "birth_name": "Jang Dae Hyeon",
+                "birthday": "February 11, 1997",
+                "birth_place": "N/A",
+                "position": "Leader, Main Rapper, Vocalist",
+                "height": "5’9"
+            },
+            "Donghan" :{
+                "stage_name": "Donghan",
+                "birth_name": "Kim Dong Han",
+                "birthday": "July 3, 1998",
+                "birth_place": "Daegu, South Korea",
+                "position": "Lead Vocalist, Main Dancer",
+                "height": "5’11"
+            },
+            "Yongha" :{
+                "stage_name": "Yongha",
+                "birth_name": "Yoo Yong Ha",
+                "birthday": "January 11th, 1999",
+                "birth_place": "N/A",
+                "position": "Lead Rapper, Sub Vocalist",
+                "height": "5'10"
+            },
+            "Yohan" :{
+                "stage_name": "Yohan",
+                "birth_name": "Kim Yo Han",
+                "birthday": "September 22, 1999",
+                "birth_place": "Seoul, South Korea",
+                "position": "Lead Dancer, Lead Vocalist, Sub Rapper",
+                "height": "5’11"
+            },
+            "Seokhwa" :{
+                "stage_name": "Seokhwa",
+                "birth_name": "Kang Seok Hwa",
+                "birthday": "December 1, 2000",
+                "birth_place": "Daejeon, Chungcheong, South Korea",
+                "position": "Main Vocalist",
+                "height": "5’7"
+            },
+            "Junseo" :{
+                "stage_name": "Junseo",
+                "birth_name": "Kim Jun Seo",
+                "birthday": "November 20th, 2001",
+                "birth_place": "N/A",
+                "position": "Lead Dancer, Vocalist, Maknae",
+                "height": "5’10"
+            }
+        }
+    },
+    "oneWe": {
+        "info": "\n⭔ Group Name : OneWe\n⭔ Debut Date : May 13, 2019\n⭔ Fandom Name : WEVE\n⭔ Instagram :https://www.instagram.com/official_onewe\n⭔ Twitter : https://www.twitter.com/official_ONEWE\n⭔ Youtube : https://www.youtube.com/channel/UCj-dtq6jHfj4_fufifPzMEQ\n⭔ G_I :  \n⭔ Facebook :  \n⭔ Tiktok: \n⭔ Dance Video: ",
+        "members" :{
+            "Yonghoon" :{
+                "stage_name": "Yonghoon",
+                "birth_name": "Jin Yong Hoon",
+                "birthday": "August 17, 1994",
+                "birth_place": "N/A",
+                "position": "Leader, Main Vocalist, Guitar, Keyboard",
+                "height": "6;0"
+            },
+            "Harin" :{
+                "stage_name": "Harin",
+                "birth_name": "Ju Ha Rin",
+                "birthday": "March 29, 1998",
+                "birth_place": "N/A",
+                "position": "Drummer",
+                "height": "5’11"
+            },
+            "Kanghyun" :{
+                "stage_name": "Kanghyun",
+                "birth_name": "Kang Hyun Gu",
+                "birthday": "November 24, 1998",
+                "birth_place": "N/A",
+                "position": "Guitar",
+                "height": "5’9"
+            },
+            "Dongmyeong" :{
+                "stage_name": "Dongmyeong",
+                "birth_name": "Son Dong Myeong",
+                "birthday": "January 10, 2000",
+                "birth_place": "N/A",
+                "position": "Lead Vocalist, Keyboard, Visual",
+                "height": "5’8"
+            },
+            "CyA" :{
+                "stage_name": "CyA",
+                "birth_name": "Lee Gi Wook",
+                "birthday": "January 24, 2000",
+                "birth_place": "N/A",
+                "position": "Main Rapper, Bass Guitar, Maknae",
+                "height": "5’9"
+            }
+        }
+    },
+    "winner": {
+        "info": "\n⭔ Group Name : Winner\n⭔ Debut Date : August 17, 2014\n⭔ Fandom Name : INNERCIRCLE\n⭔ Instagram :https://www.instagram.com/winnercity/\n⭔ Twitter : https://twitter.com/yginnercircle\n⭔ Youtube : https://www.youtube.com/channel/UCayQxFAoFCvGariuQCtHRGQ\n⭔ G_I :  \n⭔ Facebook :  \n⭔ Tiktok: \n⭔ Dance Video: ",
+        "members" :{
+            "Yoon" :{
+                "stage_name": "Yoon",
+                "birth_name": "Kang Seung Yoon",
+                "birthday": "January 21, 1994",
+                "birth_place": "Busan, South Korea",
+                "position": "Leader, Main Vocalist, Maknae",
+                "height": "5’11"
+            },
+            "Jinu" :{
+                "stage_name": "Jinu",
+                "birth_name": "Kim Jin Woo",
+                "birthday": "September 26, 1991",
+                "birth_place": "Imjado, South Korea",
+                "position": "Lead Vocalist, Visual",
+                "height": "5’10"
+            },
+            "Hooney" :{
+                "stage_name": "Hooney",
+                "birth_name": "Lee Seung Hoon",
+                "birthday": "January 11, 1992",
+                "birth_place": "Busan, South Korea",
+                "position": "Main Dancer, Lead Rapper, Vocalist",
+                "height": "6’1"
+            },
+            "Mino" :{
+                "stage_name": "Mino",
+                "birth_name": "Song Min Ho",
+                "birthday": "March 30, 1993",
+                "birth_place": "Yongin, South Korea",
+                "position": "Main Rapper, Vocalist, Face of the Group",
+                "height": "6’0"
+            },
+            "Taehyun" :{
+                "stage_name": "Taehyun",
+                "birth_name": "Nam Tae Hyun",
+                "birthday": "May 10, 1994",
+                "birth_place": "Hanam, South Korea",
+                "position": "Main Vocalist",
+                "height": "5’11"
+            }
+        }
+    },
+    "day6": {
+        "info": "\n⭔ Group Name : Day6\n⭔ Debut Date : September 7, 2015\n⭔ Fandom Name : My Day\n⭔ Instagram :https://www.instagram.com/day6kilogram/\n⭔ Twitter : https://twitter.com/day6official\n⭔ Youtube : https://www.youtube.com/channel/UCp-pqXsizklX3ZHvLxXyhxw\n⭔ G_I :  \n⭔ Facebook :  \n⭔ Tiktok: \n⭔ Dance Video: ",
+        "members" :{
+            "Sungjin" :{
+                "stage_name": "Sungjin",
+                "birth_name": "Park Sung Jin",
+                "birthday": "January 16, 1993",
+                "birth_place": "Busan, South Korea",
+                "position": "Leader, Main Vocalist, Rhythm Guitarist",
+                "height": "5’10"
+            },
+            "Jae" :{
+                "stage_name": "Jae",
+                "birth_name": "Park Jae Hyung",
+                "birthday": "September 15, 1992",
+                "birth_place": "Buenos Aires, Argentina",
+                "position": "Lead Guitarist, Main Vocalist, Face of the Group",
+                "height": "6’0"
+            },
+            "k" :{
+                "stage_name": "Young K",
+                "birth_name": "Kang Young Hyun",
+                "birthday": "December 19, 1993",
+                "birth_place": "Ilsan, South Korea",
+                "position": "Main Rapper, Main Vocalist, Bassist",
+                "height": "5’11"
+            },
+            "Wonpil" :{
+                "stage_name": "Wonpil",
+                "birth_name": "Kim Won Pil",
+                "birthday": "April 28, 1994",
+                "birth_place": "Incheon, South Korea",
+                "position": "Main Vocalist, Keyboardist, Synthesizer, Visual",
+                "height": "5’9"
+            },
+            "Dowoon" :{
+                "stage_name": "Dowoon",
+                "birth_name": "Yoon Do Woon",
+                "birthday": "August 25, 1995",
+                "birth_place": "Busan, South Korea",
+                "position": "Drummer, Vocalist, Maknae",
+                "height": "5’10"
+            }
+        }
+    },
+    "theRose": {
+        "info": "\n⭔ Group Name : The Rose\n⭔ Debut Date : August 3rd, 2017\n⭔ Fandom Name : Black Rose\n⭔ Instagram :https://www.instagram.com/therosesound/\n⭔ Twitter : https://twitter.com/TheRoseSound\n⭔ Youtube : https://www.youtube.com/channel/UCtAVRsk51HikP2jrVHCWb7Q\n⭔ G_I : https://kprofiles.com/wp-content/uploads/2017/08/Group.jpg\n⭔ Facebook :  \n⭔ Tiktok: \n⭔ Dance Video: ",
+        "members" :{
+            "Woosung" :{
+                "stage_name": "Woosung",
+                "birth_name": "Kim Woosung",
+                "birthday": "February 25, 1993",
+                "birth_place": "Los Angeles, California, USA",
+                "position": "Leader, Lead Vocalist, (Electric) Guitarist",
+                "height": "5’8",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2017/08/1-Woosung-533x800.jpg"
+            },
+            "Dojoon" :{
+                "stage_name": "Dojoon",
+                "birth_name": "Park Dojoon",
+                "birthday": "April 20, 1993",
+                "birth_place": "Busan, South Korea",
+                "position": "Main Vocalist, Keyboardist, (Acoustic) Guitarist",
+                "height": "5’9",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2017/08/2-Dojoon.jpg"
+            },
+            "Hajoon" :{
+                "stage_name": "Hajoon",
+                "birth_name": "Lee Hajoon",
+                "birthday": "July 29, 1994",
+                "birth_place": "Gwangju, South Korea",
+                "position": "Drummer, Sub Vocalist, Rapper",
+                "height": "5’10",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2017/08/3-Hajoon.jpg"
+            },
+            "Jaehyeong" :{
+                "stage_name": "Jaehyeong",
+                "birth_name": "Lee Jaehyeong",
+                "birthday": "November 3, 1994",
+                "birth_place": "Samcheok, Gangwon-do, South Korea",
+                "position": "Maknae, Bassist, Sub Vocalist, Visual",
+                "height": "5’11",
+                "member_img": "https://kprofiles.com/wp-content/uploads/2017/08/4-Jaehyeong-532x800.jpg"
+            }
+        }
+    },
+
+
+
+    "uKnow": {
+        "info": "\n⭔ Group Name : U-Know\n⭔ Debut Date : June 12, 2019",
+        "group_name": "TVXQ!\n⭔ Instagram :https://www.instagram.com/yunho2154/",
+        "members" :{
+        }
+    },
+    "taeyang": {
+        "info": "\n⭔ Group Name : Taeyang\n⭔ Debut Date : May 22, 2008",
+        "group_name": "Big Bang\n⭔ Instagram :https://www.instagram.com/__youngbae__/\n⭔ Twitter : https://twitter.com/realtaeyang?lang=en\n⭔ G_I : https://kprofiles.com/wp-content/uploads/2016/05/Taeyang.jpg",
+        "members" :{
+        }
+    },
+    "gDragon": {
+        "info": "\n⭔ Group Name : G Dragon\n⭔ Debut Date : August 18, 2009",
+        "group_name": "Big Bang\n⭔ Instagram :https://www.instagram.com/xxxibgdrgn/\n⭔ Twitter : https://twitter.com/IBGDRGN\n⭔ G_I : https://kprofiles.com/wp-content/uploads/2016/05/G-Dragon-1.jpg",
+        "members" :{
+        }
+    },
+    "mino": {
+        "info": "\n⭔ Group Name : Mino\n⭔ Debut Date : November 26, 2018",
+        "group_name": "Winner\n⭔ Instagram :https://www.instagram.com/realllllmino/\n⭔ Twitter : https://twitter.com/official_mino_?lang=en\n⭔ G_I : https://pbs.twimg.com/media/EliObmIU0AEPr0f?format=jpg&name=large",
+        "members" :{
+        }
+    },
+    "zico": {
+        "info": "\n⭔ Group Name : Zico\n⭔ Debut Date : November 7, 2014",
+        "group_name": "Block B\n⭔ Instagram :https://www.instagram.com/woozico0914/\n⭔ Twitter : https://twitter.com/#!/ZICO92\n⭔ Youtube : https://www.youtube.com/channel/UClOZoLNwJVdNzkEhzeevBSA\n⭔ G_I : https://kprofiles.com/wp-content/uploads/2019/02/4-533x800.jpg",
+        "members" :{
+        }
+    },
+    "kangDaniel": {
+        "info": "\n⭔ Group Name : Kang Daniel\n⭔ Debut Date : July 25, 2019",
+        "group_name": "Wanna One\n⭔ Instagram :https://www.instagram.com/daniel.k.here\n⭔ Twitter : https://twitter.com/konnect_danielk",
+        "members" :{
+        }
+    },
+    "woodz": {
+        "info": "\n⭔ Group Name : Woodz\n⭔ Debut Date : July 29, 2016",
+        "group_name": "Uniq\n⭔ Instagram :https://www.instagram.com/woodz_dnwm/\n⭔ Twitter : https://twitter.com/c_woodzofficial\n⭔ G_I : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlCbzQRocd-SZxUaTvF1Z2YNx0joLcKyha8A&usqp=CAU",
+        "members" :{
+        }
+    },
+    "wonho": {
+        "info": "\n⭔ Group Name : Wonho\n⭔ Debut Date : September 4, 2020",
+        "group_name": "Monsta X\n⭔ Instagram :https://www.instagram.com/iwonhoyou/?hl=en\n⭔ Twitter : https://twitter.com/official__wonho\n⭔ Youtube : https://www.youtube.com/channel/UCnSNrN9e2UlPhLVHS60akuA\n⭔ G_I : https://i.pinimg.com/564x/80/d3/5d/80d35d03c693486239c721cae8bbf6be.jpg\n⭔ Facebook : https://youtu.be/3zFS-V_iCiM\n⭔ Tiktok:https://youtu.be/TzyhzEsrGZI\n⭔ Dance Video:https://youtu.be/H6BSawEXvG4",
+        "members" :{
+        }
+    },
+    "im": {
+        "info": "\n⭔ Group Name : I.M.\n⭔ Debut Date : February 19, 2021",
+        "group_name": "Monsta X\n⭔ Instagram :https://www.instagram.com/imnameim/?hl=en\n⭔ G_I : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgd0OPxAKRH1oSOx5dxWmBhJVAdjldYonfaw&usqp=CAU",
+        "members" :{
+        }
+    },
+    "joohoney": {
+        "info": "\n⭔ Group Name : Joohoney\n⭔ Debut Date : April 11, 2020",
+        "group_name": "Monsta X\n⭔ G_I : https://pbs.twimg.com/media/EUVTdfcVAAADjwo.jpg",
+        "members" :{
+        }
+    },
+    "jacksonWang": {
+        "info": "\n⭔ Group Name : Jackson Wang\n⭔ Debut Date : August 25, 2017",
+        "group_name": "Got7\n⭔ Instagram :https://www.instagram.com/jacksonwang852g7/\n⭔ Twitter : https://twitter.com/JacksonWang852\n⭔ Youtube : https://www.youtube.com/channel/UCJS0K01yC8BmQtSuRdqqo3w/featured\n⭔ G_I : https://gossipgist.com/uploads/29306/jackson-wang-pinterest.jpg",
+        "members" :{
+        }
+    },
+    "ash": {
+        "info": "\n⭔ Group Name : Ash Island\n⭔ Debut Date : March 22, 2019\n⭔ Instagram :https://www.instagram.com/ash.island\n⭔ G_I : https://lastfm.freetls.fastly.net/i/u/770x0/dede1c8df3f558b38a5cc9a2c14093c8.jpg",
+        "members" :{
+        }
+    },
+    "bloo": {
+        "info": "\n⭔ Group Name : Bloo\n⭔ Debut Date : July 1, 2015\n⭔ Instagram :https://www.instagram.com/badboyloo/\n⭔ Twitter : https://twitter.com/realbadboyloo\n⭔ Youtube : https://www.youtube.com/channel/UCrABnHuuousrSl5c-mYtyuw\n⭔ G_I : https://static.wikia.nocookie.net/3efd78b3-c3ac-4db0-8361-fc562c77a5f3\n⭔ Facebook : https://youtu.be/JMw_cyEjNUw",
+        "members" :{
+        }
+    }
+
+}
